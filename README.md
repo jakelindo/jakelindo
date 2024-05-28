@@ -1,0 +1,5 @@
+- 👋 meu nome é jake
+- 👀 estou aprendendo a usar o github
+- 🌱 sei usar o scrath
+- 💞️ ja usei o p5
+- <img scr= "https://i.pinimg.com/originals/57/ab/90/57ab9062d336d6abf491625fc4911838.jpg">
